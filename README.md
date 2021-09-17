@@ -1,18 +1,18 @@
-# vue-core-video-player-examples
+# procedure-check
 
-Some demos of [vue-core-video-player](https://github.com/core-player/vue-core-video-player)
+Some demos of [procedure-check](https://github.com/xuqinkun/procedure-check.git)
 
 
-[Preview](http://events.jackpu.com/vue-core-video-player-examples/)
+[Preview](http://events.jackpu.com/procedure-check/)
 
 
 ## Get Started
 
 ``` bash
-git clone https://github.com/core-player/vue-core-video-player-examples.git
+git clone https://github.com/xuqinkun/procedure-check.git
 
 
-cd vue-core-video-player-examples && npm install
+cd procedure-check && npm install
 
 npm run serve
 ```
