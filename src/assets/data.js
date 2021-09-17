@@ -22,8 +22,9 @@ const DATA = [{
   cover: 'https://img1.wxzxzj.com/vpc-example-cover-5cm.png',
   cover2: 'https://img1.wxzxzj.com/vpc-example-cover-5cm-v.jpg',
   cover3: 'https://img1.wxzxzj.com/vpc-example-cover-5cm-c.jpg',
-  source: 'https://media.vued.vanthink.cn/5%20Centimeters%20Per%20Second%20Trailer%20HD.mp4',
-  duration: '1:02:35'
+  // source: 'https://media.vued.vanthink.cn/5%20Centimeters%20Per%20Second%20Trailer%20HD.mp4',
+  source: 'http://127.0.0.1:8888?startTime=0',
+  duration: '1:20:35'
 }, {
   id: 'hfkhzwgnwx',
   title: 'The Garden of Words',
